@@ -3,7 +3,7 @@
  * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the installation.
- * You don't have to use the web site, you can copy this file to "wp-config.php"
+ * You don't have to use the website, you can copy this file to "wp-config.php"
  * and fill in the values.
  *
  * This file contains the following configurations:
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '+k`M^{q-j/zMg<+N~>x*/yho]|{yLl}qC7R{9)/ G^^kA`|&;9G69*F9zU?CYqDX' );
-define( 'SECURE_AUTH_KEY',  '@h69w)+NIyN6Q]H!hNw0^>g4&I-Jih,#Pi!HgkM?<ly)H;>d.V>S6^9qhHmd`5OL' );
-define( 'LOGGED_IN_KEY',    'HU4BE(6JQX!K,*{6nF#^~r8t[l<dnGHVsA :S))Fdna+D,okwj/:at;p2/RD[#]8' );
-define( 'NONCE_KEY',        'JkzD)aC^.]_HfJyJLLI^8ZYa^y0~k[2bff#1RK=P_ZeCWu^=1up^kj2-me-^YjZn' );
-define( 'AUTH_SALT',        'fl)V6xO&rS %#Id$+Qyzf4XrR+g;wM_z.f!wFq?%[t*tO~PvQ@C>(ghl<n`@G~VM' );
-define( 'SECURE_AUTH_SALT', '@mUjJtJ~(3Fy,}eNXN0i)#2u%&(o;@^/v}zy_a<?YL*&}E)TfIcK@LGk0EM3op@7' );
-define( 'LOGGED_IN_SALT',   'E!*)f3._fOcq7 ]8.[GKb[emmeR;`#.85B$hdc(Pp[_>{Z.C7,l5u}+<W*Fji2dd' );
-define( 'NONCE_SALT',       '&bdTC8 xX{Zpg!3zr]X:SXQ?p;|OOn8*nUa(yB(:=fu[Q<>JTDp>?N1$*`JR$.+h' );
+define( 'AUTH_KEY',         'KXbClUIi](|J=lvX%,G @Vq6AZ~2^6?hr]tOG_BjytAwx+$Li&8aX@62@l_t5JL[' );
+define( 'SECURE_AUTH_KEY',  'KXPuhd;)*9pbeRjbP+foN8`8{!`_cEn3ta?N~mlDii,:M@34:JCvE;rTJ}eO)5CL' );
+define( 'LOGGED_IN_KEY',    'w-5u(G=pI|LrUI#AJXPHKDgm@emO$MT:Wd@9J9]12T!yn9IUf@<M}>Df$7uN!LW.' );
+define( 'NONCE_KEY',        '<5C+C,.*;=?PQm!B- EQD,FVGe`GmI86p|TYQ:22b{2~/pxUcE^bsl*=vSGBRn6m' );
+define( 'AUTH_SALT',        'Md-*HSk!DTg78}=@63weQ+*.J`Lq}npk`=aqbtS}YberLV>FGx0vLr/mKGoK<gn&' );
+define( 'SECURE_AUTH_SALT', 'FT5Li-)*<2{lpt(Nt`|MiH,C/6BUqzOUmWO}#LP2Vf~T:Iqf#Bfdi<~f^9xg5MT@' );
+define( 'LOGGED_IN_SALT',   '0lG8Ofw9sKhx8Xm9)3,`_9op7]e@B1mia>(BjSe#Rn6*&<=]|130|UbZDkxX`}vV' );
+define( 'NONCE_SALT',       'Yd11#AbX)Wv;T|r29(CM@Vv9ZE$D@2D0REIL9&d/gQa!:c1=3QJ.H|z`Nt?;u=#Y' );
 
 /**#@-*/
 
